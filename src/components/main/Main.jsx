@@ -7,8 +7,8 @@ function Main() {
 < >
 <div className='d-flex justify-content-center align-items-start'>
 <section id='home' className="primary py-5 d-flex flex-lg-row flex-column">
-<div className='px-5 firstl d-flex flex-column'> 
-<div className='twenty-percent my-2 px-1 py-1' > 
+<div className='px-2 firstl d-flex flex-column'> 
+<div className='twenty-percent my-2 py-1' > 
   <p><span className="text-white"> 20% </span><span className="text-secondary">DISCOUNT </span><span className="text-white">1 MONTH</span><span className="text-secondary"> ACCOUNT</span></p>
 </div>
 
@@ -113,7 +113,7 @@ we'll handle the money</h2>
 </div>
 
 {/* clients */}
-<div id='client' className='d-flex px-5 justify-content-center align-items-center'>
+<div id='client' className='d-flex px-2 justify-content-center align-items-center'>
 <div style={{width:'100%'}}>
 <section className="primary py-5 d-flex flex-lg-row flex-column">
 <div className=' firstl d-flex flex-column'> 
