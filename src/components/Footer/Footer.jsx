@@ -37,7 +37,7 @@ function Footer() {
           <h6>Partner</h6>
           <ul className="footer-links">
             <li><a href="">Our Partner</a></li>
-            <li><a href="">Bexome a Partner</a></li>
+            <li><a href="">Become a Partner</a></li>
           </ul>
         </div>
       </div>

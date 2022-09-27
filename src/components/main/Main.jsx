@@ -115,7 +115,7 @@ we'll handle the money</h2>
 {/* clients */}
 <div id='client' className='d-flex px-2 justify-content-center align-items-center'>
 <div style={{width:'100%'}}>
-<section className="primary py-5 d-flex flex-lg-row flex-column">
+<section className="primary py-5 ps-3 d-flex flex-lg-row flex-column">
 <div className=' firstl d-flex flex-column'> 
   <h2 className='text-white pb-1 pe-1' style={{fontSize:'50px', fontWeight:"650"}}>What People are
 </h2>
@@ -128,7 +128,7 @@ Saying about us</h2>
   </div>
 </section>
 
-<section className='d-flex justify-content-center justify-content-md-start flex-wrap mb-5'>
+<section className='d-flex justify-content-center justify-content-lg-start flex-wrap mb-5'>
   <div className=' clients  d-flex justify-content-between flex-column gen-child'>
   <div className='d-flex flex-column'>
     <img src='assets/quotes.png' className='quotes' alt='quotes'/>

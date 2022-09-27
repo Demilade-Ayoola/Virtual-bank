@@ -13,7 +13,8 @@ overflow-x: hidden;
 .twenty-percent{
   border-radius: 10px;
    background: linear-gradient(125.17deg,#272727,#11101d);
-   width: 274px;
+   width: 290px;
+   text-align: center;
    height: 30px;
 }
  .get-started{
