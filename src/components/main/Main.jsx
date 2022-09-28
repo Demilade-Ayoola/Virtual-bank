@@ -7,7 +7,7 @@ function Main() {
 < >
 <div className='d-flex justify-content-center align-items-start'>
 <section id='home' className="primary py-5 d-flex flex-lg-row flex-column">
-<div className='px-2 firstl d-flex flex-column'> 
+<div className='px-2 px-md-5 firstl d-flex flex-column'> 
 <div className='twenty-percent my-2 py-1' > 
   <p><span className="text-white"> 20% </span><span className="text-secondary">DISCOUNT </span><span className="text-white">1 MONTH</span><span className="text-secondary"> ACCOUNT</span></p>
 </div>
@@ -178,7 +178,7 @@ Saying about us</h2>
 
 <section className='d-flex justify-content-center align-items-center mb-5'>
 <div className=' firstl start d-flex justify-content-between align-items-center flex-md-row flex-column p-3'> 
-  <div className='d-flex firstl flex-column justify-content-between'>
+  <div className='d-flex firstl flex-column talign px-md-3 justify-content-between'>
   <h2 className='text-white pb-4 pe-1' style={{fontSize:'50px', fontWeight:"650"}}>Lets try our service now</h2>
   <p className='text-white fs-5 p pb-4'>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
   </div>

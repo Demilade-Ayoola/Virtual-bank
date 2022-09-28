@@ -72,6 +72,9 @@ font-size: 40px
 font-weight: 500
 !important;
 }
+.talign{
+    text-align: center;
+}
 .clients{
     margin-left: 0rem !important;
 }
