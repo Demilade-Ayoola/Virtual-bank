@@ -1,8 +1,8 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import Main from './main/Main'
-import AnchorLink from 'react-anchor-link-smooth-scroll'
+import Main from './main/Main';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 function Header() {
 const Navigation = () =>{
@@ -14,13 +14,13 @@ const Navigation = () =>{
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav>
           <AnchorLink className='nav-link'href="#home">Home</AnchorLink>
-          <AnchorLink className='nav-link'eventKey={2} href="#about">
+          <AnchorLink className='nav-link' href="#about">
             About Us
           </AnchorLink>
-          <AnchorLink className='nav-link'eventKey={3} href="#features">
+          <AnchorLink className='nav-link' href="#features">
             Features
           </AnchorLink>
-          <AnchorLink className='nav-link' eventKey={4} href="#client">
+          <AnchorLink className='nav-link'  href="#client">
             Clients
           </AnchorLink>
         </Nav>
