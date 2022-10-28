@@ -7,7 +7,7 @@ function Main() {
 < >
 <div className='d-flex justify-content-center align-items-start'>
 <section id='home' className="primary py-5 d-flex flex-lg-row flex-column">
-<div className='px-2 px-md-5 firstl d-flex flex-column'> 
+<div data-aos="zoom-in"  data-aos-duration="3000" className='px-2 px-md-5 firstl d-flex flex-column'> 
 <div className='twenty-percent my-2 py-1' > 
   <p><span className="text-white"> 20% </span><span className="text-secondary">DISCOUNT </span><span className="text-white">1 MONTH</span><span className="text-secondary"> ACCOUNT</span></p>
 </div>
@@ -22,7 +22,7 @@ function Main() {
   <p className='text-white p'>Our team of experts uses a methodology to identify the credit cards most likely to fit your needs we examine annual percentage rates, annual fees</p>
 </div>
 </div>
-<div className='firstr d-flex justify-content-center align-items-center'>
+<div data-aos="zoom-in"  data-aos-duration="3000" className='firstr d-flex justify-content-center align-items-center'>
 
   <img src='assets/Group481777.png' className='robothand' alt='Robothand'/>
 </div>
@@ -32,19 +32,19 @@ function Main() {
 <div id='about'className='d-flex px-5 align-items-start justify-content-center '>
 <div style={{width:'100%'}}>
 <section className='d-flex align-items-center justify-content-center flex-wrap mb-8'>
-  <div className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-white'>3800+</h3><h4 className='text-gradient'> ACTIVE USERS</h4></div>
-  <div className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-white'>230+</h3><h4 className='text-gradient'> TRUSTED BY COMPANY</h4></div>
-  <div className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-white'>$230M+</h3><h4 className='text-gradient'> TRANSACTION</h4></div>
+  <div data-aos="zoom-in-up" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-white'>3800+</h3><h4 className='text-gradient'> ACTIVE USERS</h4></div>
+  <div data-aos="zoom-in-up" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-white'>230+</h3><h4 className='text-gradient'> TRUSTED BY COMPANY</h4></div>
+  <div data-aos="zoom-in-up" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-white'>$230M+</h3><h4 className='text-gradient'> TRANSACTION</h4></div>
 </section>
 
 <section className="primary py-5 d-flex flex-lg-row flex-column">
-<div className=' firstl d-flex flex-column'> 
+<div data-aos="fade-right" className=' firstl d-flex flex-column'> 
   <h2 className='text-white pb-4 pe-1' style={{fontSize:'50px', fontWeight:"650"}}>You do the Business
 we'll handle the money</h2>
   <p className='text-white fs-5 p pb-2 pb-sm-4'>With the right credit card,you can impove your financial life by building credit,earning rewards and saving money with hundreds of credit cards on the market</p>
 <button className="started-button mb-4 py-3">Get Started</button>
   </div>
-<div className='firstr d-flex flex-column'>
+<div data-aos="fade-right" className='firstr d-flex flex-column'>
 <div className='d-flex ps-1 py-2 pe-2 align-items-center rewards firstr'>
   <div><img src='assets/Group481727.png' alt='' className='ps-0 pb-1 pe-2'/></div>
   <div className='d-flex text-white flex-column'>
@@ -79,11 +79,11 @@ we'll handle the money</h2>
 <div id='features' className='d-flex px-5 justify-content-center align-items-center'>
 <div style={{width:'100%'}}>
 <section className="primary py-5 d-flex flex-lg-row flex-column">
-<div className='firstl d-flex justify-content-center align-items-center'>
+<div data-aos="fade-left" className='firstl d-flex justify-content-center align-items-center'>
   <img src='assets/Group481776.png' className='robothand' alt='Robothand'/>
 </div>
 
-<div className=' firstr d-flex flex-column ps-lg-5'> 
+<div data-aos="fade-left" className=' firstr d-flex flex-column ps-lg-5'> 
   <h2 className='text-white pt-3 pb-2 pb-sm-4' style={{fontSize:'50px', fontWeight:"650"}}>Easily control</h2>
   <h2 className='text-white pb-2 pb-sm-4' style={{fontSize:'50px', fontWeight:"650"}}>your billing &</h2>
   <h2 className='text-white pb-2 pb-sm-4' style={{fontSize:'50px', fontWeight:"650"}}>invoicing</h2>
@@ -96,14 +96,14 @@ we'll handle the money</h2>
 </section>
 
 <section className="primary py-5 d-flex flex-lg-row flex-column">
-<div className=' firstl d-flex flex-column mb-3 mb-sm-0'> 
+<div data-aos="fade-right" className=' firstl d-flex flex-column mb-3 mb-sm-0'> 
   <h2 className='text-white pb-2 pb-sm-4' style={{fontSize:'50px', fontWeight:"650"}}>Find a better</h2>
   <h2 className='text-white pb-2 pb-sm-4' style={{fontSize:'50px', fontWeight:"650"}}>card deal</h2>
   <h2 className='text-white pb-2 pb-sm-4' style={{fontSize:'50px', fontWeight:"650"}}>in a few easy steps</h2>
   <p className='text-white fs-5 p pb-sm-4'>With the right credit card,you can impove your financial life by building credit,earning rewards and saving money with hundreds of credit cards on the market</p>
 <button className="started-button mb-2 mb-sm-4 py-3">Get Started</button>
   </div>
-  <div className='firstl d-flex justify-content-center align-items-center'>
+  <div data-aos="fade-right" className='firstl d-flex justify-content-center align-items-center'>
   <img src='assets/Group481775.png' className='robothand' alt='Robothand'/>
 </div>
 
@@ -116,20 +116,20 @@ we'll handle the money</h2>
 <div id='client' className='d-flex px-2 justify-content-center align-items-center'>
 <div style={{width:'100%'}}>
 <section className="primary py-5 ps-3 d-flex flex-lg-row flex-column">
-<div className=' firstl d-flex flex-column'> 
+<div data-aos="fade-up" className=' firstl d-flex flex-column'> 
   <h2 className='text-white pb-1 pe-1' style={{fontSize:'50px', fontWeight:"650"}}>What People are
 </h2>
 <h2 className='text-white pb-4 pe-1' style={{fontSize:'50px', fontWeight:"650"}}>
 Saying about us</h2>
 
   </div>
-<div className='firstr d-flex p-8 align-items-center'>
+<div data-aos="fade-up" className='firstr d-flex p-8 align-items-center'>
     <p className='text-white fs-5 p pb-4'>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
   </div>
 </section>
 
 <section className='d-flex justify-content-center justify-content-lg-start flex-wrap mb-5'>
-  <div className=' clients  d-flex justify-content-between flex-column gen-child'>
+  <div data-aos="fade-up" className=' clients  d-flex justify-content-between flex-column gen-child'>
   <div className='d-flex flex-column'>
     <img src='assets/quotes.png' className='quotes' alt='quotes'/>
     <p className='text-white pa my-4'>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
@@ -139,7 +139,7 @@ Saying about us</h2>
     <h5 className='text-white ms-2' >Herman Jensen</h5>
       </div>
     </div>
-    <div className=' clients  d-flex justify-content-between flex-column gen-child'>
+    <div data-aos="fade-up" className='clients  d-flex justify-content-between flex-column gen-child'>
     <div className='d-flex flex-column'>
       <img src='assets/quotes.png' className='quotes' alt='quotes'/>
     <p className='text-white pa my-4'>Money makes your life easier. If you're lucky to have it, you're lucky.</p>
@@ -149,7 +149,7 @@ Saying about us</h2>
     <h5 className='text-white ms-2' >Steve Mark</h5>
       </div>
     </div>
-    <div className=' clients  d-flex justify-content-between flex-column gen-child'>
+    <div data-aos="fade-up" className='clients  d-flex justify-content-between flex-column gen-child'>
     <div className='d-flex flex-column'>
     <img src='assets/quotes.png' className='quotes' alt='quotes'/>
     <p className='text-white pa my-4'>It is usually people in the money business, finance, and international trade that are really rich.</p>
@@ -177,7 +177,7 @@ Saying about us</h2>
   </section>
 
 <section className='d-flex justify-content-center align-items-center mb-5'>
-<div className=' firstl start d-flex justify-content-between align-items-center flex-md-row flex-column p-3'> 
+<div data-aos="fade-right" className=' firstl start d-flex justify-content-between align-items-center flex-md-row flex-column p-3'> 
   <div className='d-flex firstl flex-column talign px-md-3 justify-content-between'>
   <h2 className='text-white pb-4 pe-1' style={{fontSize:'50px', fontWeight:"650"}}>Lets try our service now</h2>
   <p className='text-white fs-5 p pb-4'>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
