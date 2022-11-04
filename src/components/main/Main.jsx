@@ -66,11 +66,8 @@ we'll handle the money</h2>
     <p className='pa'>A balance transfer credit card can save you a lot of money in interest charges.</p>
   </div>
 </div>
-
-
 </div>
 </section>
-
 
 </div>
 </div>
@@ -184,7 +181,6 @@ Saying about us</h2>
   </div>
 <button className="started-button m-4 py-3">Get Started</button>
   </div>
-
 
 </section>
 
